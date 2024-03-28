@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+!!!Attention
+Please install some library of React such as 'React Paginate, React Icons and Framer Motion'.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
